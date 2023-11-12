@@ -1,2 +1,2 @@
 # TLSs
-Here are the relevant analysis codes for ARHGAP9 and tertiary lymphoid structure (TLS)
+The code for analysis of ARHGAP9 and tertiary lymphoid structures (TLS) is stored here.
